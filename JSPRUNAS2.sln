@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSPRUNAS2.Android", "JSPRUNAS2\JSPRUNAS2.Android\JSPRUNAS2.Android.csproj", "{DD251308-D6EC-44EB-89C5-E1935129CB49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSPRUNAS2", "JSPRUNAS2\JSPRUNAS2\JSPRUNAS2.csproj", "{6078BB46-55F3-486B-B634-52470CA10747}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD251308-D6EC-44EB-89C5-E1935129CB49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD251308-D6EC-44EB-89C5-E1935129CB49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD251308-D6EC-44EB-89C5-E1935129CB49}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DD251308-D6EC-44EB-89C5-E1935129CB49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD251308-D6EC-44EB-89C5-E1935129CB49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD251308-D6EC-44EB-89C5-E1935129CB49}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{6078BB46-55F3-486B-B634-52470CA10747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6078BB46-55F3-486B-B634-52470CA10747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6078BB46-55F3-486B-B634-52470CA10747}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6078BB46-55F3-486B-B634-52470CA10747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6078BB46-55F3-486B-B634-52470CA10747}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6078BB46-55F3-486B-B634-52470CA10747}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40745B07-5203-4A6E-AF01-23A0AB25FE7E}
+	EndGlobalSection
+EndGlobal
